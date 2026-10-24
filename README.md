@@ -104,3 +104,6 @@ frontend/src/
   nav.js, Shell.jsx        sidebar/topbar shell, per-role navigation
   pages/                   one or two files per portal
 ```
+link:https://skillbridge-frontend-6jzq.onrender.com
+SkillBridge – Skill exchange, mentorship and micro-internships
+ 
